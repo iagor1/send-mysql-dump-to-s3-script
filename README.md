@@ -117,3 +117,8 @@ backup-auto-16-09-2025-14h.sql.gz
 ### Error: "Access Denied S3"
 - Check S3 bucket permissions
 - Confirm credentials have bucket access
+
+
+## Results
+
+<img width="1114" height="341" alt="Screenshot_20250916_212937" src="https://github.com/user-attachments/assets/991392e0-579e-40bf-afdd-3a66bb9704d8" />
